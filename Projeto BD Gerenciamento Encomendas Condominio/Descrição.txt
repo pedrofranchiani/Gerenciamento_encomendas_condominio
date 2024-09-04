@@ -1,0 +1,8 @@
+Este projeto é um banco de dados desenvolvido para gerenciar de forma eficiente as encomendas recebidas por um condomínio. O sistema permite o registro detalhado de cada encomenda, incluindo informações como o nome do destinatário, a data de recebimento, o status da entrega, e o número da unidade. O objetivo é facilitar o controle e a organização das entregas, reduzindo a possibilidade de erros e melhorando a experiência dos moradores e da equipe de administração. O projeto foi desenvolvido com foco em simplicidade, segurança e facilidade de uso, utilizando práticas recomendadas para a modelagem de dados e integridade referencial.
+
+
+***** IMPORTANTE *****
+
+O CÓDIGO DE CONFIRMAÇÃO DE ENTREGA DEVE SER GERADO POR CADA DESTINATÁRIO E SOMENTE CADA DESTINATÁRIO DEVERÁ TER ACESSO A ELE. EM CASO DE PERDA, CONFIRMAÇÃO DEVERÁ SER REALIZADA MEDIANTE ASSINATURA (EXCEÇÃO)
+
+TABELA ENCOMENDA> STATUS = RECEBIDO OU ENTREUGE
